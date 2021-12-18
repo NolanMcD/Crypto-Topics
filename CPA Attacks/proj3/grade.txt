@@ -1,0 +1,25 @@
+class: csc507-221
+project: proj3
+student: njm108
+date: 
+
+grade: 5/8
+
+Problem 1:
+Implement Code + Print Result:		1.5/2
+Theoretical Calculation:		0/1
+Improved Algorithm:			0/1
+
+Problem 2:
+Implement Code + Result:		3.5/4
+
+lateness:  				(0)/(4)
+
+
+
+commit:  2021-10-07 16:14:23 -0400 (Thu, 07 Oct 2021) 
+
+
+
+comments:
+

@@ -1,0 +1,20 @@
+class: csc507-221
+project: proj2
+student: njm108
+date: 
+
+grade: 3/6
+
+Short Coding Assignment:		2/2
+Frequency Distribution Exploration:	1/2
+Challenge Problem:			0/2
+lateness:  			(0)/(4)
+
+
+
+commit: 2021-09-17 09:24:06 -0400 (Fri, 17 Sep 2021)
+
+comments:
+
+Seems that you got some numbers for the frequency distribution, but did not provide word answers.  I am using your latest commit within the 3 day window after the deadline.
+

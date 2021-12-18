@@ -1,0 +1,20 @@
+class: csc507-221
+project: proj4
+student: njm108
+date: 
+
+grade: 4/6
+
+Challenge 1:				2/3
+
+Challenge 2:				2/3
+
+lateness:  				(0)/(4)
+
+
+commit:  r128 | njm108 | 2021-11-04 20:28:25 -0400 (Thu, 04 Nov 2021) | 1 line
+
+
+comments:
+
+Did not receive correct messages for challenges

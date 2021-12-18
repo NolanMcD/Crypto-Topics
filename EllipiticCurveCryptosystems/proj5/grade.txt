@@ -1,0 +1,23 @@
+class: csc507-221
+project: proj5
+student: njm108
+date: 
+
+grade: 3/6
+
+Implementation and Tests:		3/5
+
+Efficient n_add				0/1
+
+lateness:  				(0)/(4)
+
+
+commit:  r179 | njm108 | 2021-12-11 18:59:48 -0500 (Sat, 11 Dec 2021) | 1 line
+
+restored test file
+
+
+
+comments:
+please use efficient n_add algorithm
+
