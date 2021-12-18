@@ -1,0 +1,40 @@
+class: csc507-221
+project: proj1
+student: njm108
+date:
+
+grade: 5/5
+
+passes basic test (#):		3/3
+passes extended test(%):	2/2
+lateness:  			(0)/(4)
+
+(#)
+- passes basic test
+	passed make test
+
+(%)
+- passes extended test
+
+commit: 2021-08-30 11:19:21 -0400 (Mon, 30 Aug 2021)
+
+comments:
+
+make -f Makefile-Ext1 test-1
+cat gettysburg.txt | python3 vigenere.py abc > vigenere.out
+diff -w vigenere.out proj1-ref1.txt
+*** PASSED the test ***
+make -f Makefile-Ext1 test-2
+cat proj1-ref1.txt | python3 vigenere.py -d abc > vigenere.out
+diff -w vigenere.out proj1-ref2.txt
+*** PASSED the test ***
+make -f Makefile-Ext1 test-4
+cat shakespeare.txt | python3 vigenere.py abcdefghijklmnopqrstuvwxyzzyxwvutsrqpomnlkjihgfedcba > vigenere.out
+diff -w vigenere.out shakeEnc.txt
+*** PASSED the test ***
+make -f Makefile-Ext1 test-5
+cat shakeEnc.txt | python3 vigenere.py -d abcdefghijklmnopqrstuvwxyzzyxwvutsrqpomnlkjihgfedcba > vigenere.out
+diff -w vigenere.out shakeDec.txt
+*** PASSED the test ***
+make -f Makefile-Ext1 clean
+rm vigenere.out
